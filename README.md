@@ -1,4 +1,4 @@
-# BMI & BMR Calculator (Task 01)
+# BMI & BMR Calculator (Bonyan - Task 01)
 
 ### Overview
 This project is my first task during the **Laravel Internship Training** with **Bonyan**.
@@ -6,4 +6,4 @@ It focuses on building a functional calculator for Body Mass Index (BMI) and Bas
 
 ### Tech Stack
 - Language: **PHP**
-- Frontend: **tailwindcss**, **JavaScript**
+- Frontend: **Tailwindcss**, **JavaScript**
